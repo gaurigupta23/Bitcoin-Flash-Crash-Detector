@@ -1,5 +1,5 @@
 # Bitcoin Flash Crash Detector & Recovery Trade Simulator
-
+Quant crash‑detection + recovery strategy backtest on BTC (Python/pandas).
 A research notebook that detects Bitcoin crash events using multi-factor signals and simulates a simple mean-reversion recovery strategy on daily bars. It is intended for educational and research purposes.
 
 ## What This Project Does
